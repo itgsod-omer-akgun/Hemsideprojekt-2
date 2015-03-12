@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+}
+
+#menu{
+    background-color: white;
+    height: 100px;
+}
+#menu a{
+    font-size: 52px;
+    margin-left: 100px;
+
+}
+
+#meny a{
+    color: red;
+}
+a:link {color: black;}
+a:visited {color: black;}
+a:hover {background- ga color: red;}
