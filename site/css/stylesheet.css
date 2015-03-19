@@ -1,14 +1,25 @@
-body{
-    background-color: red;
+body {
+    background-image: url("./img/white-gray-pic.jpg");
+}
+#layout{
+    width: 1000px;
+    height: 100%;
+    margin: auto;
 }
 
 #menu{
     background-color: white;
-    height: 100px;
+    height: 20px;
+    width: auto;
+    float: left;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
 }
 #menu a{
-    font-size: 52px;
-    margin-left: 100px;
+    font-size: 20px;
+    margin-left: 70px;
+    float: left;
 
 }
 
@@ -17,4 +28,30 @@ body{
 }
 a:link {color: black;}
 a:visited {color: black;}
-a:hover {background- ga color: red;}
+a:hover {color: lightgray;}
+
+#hr1{
+    float: left;
+}
+
+#space1{
+    width: 40000px;
+    float: left;
+    height: 40px;
+}
+
+#logo{
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#bild1{
+    border-radius: 10px;
+    border-color: black;
+    width: 60 g8%;
+    height: 60%;
+}
+#nyheter{
+
+}
