@@ -1,5 +1,6 @@
 body {
-    background-image: url("./img/white-gray-pic.jpg");
+    background-image: url("../img/white-gray-pic.jpg");
+    background-repeat: no-repeat;
 }
 #layout{
     width: 1000px;
@@ -8,9 +9,7 @@ body {
 }
 
 #menu{
-    background-color: white;
     height: 20px;
-    width: auto;
     float: left;
     margin-right: auto;
     margin-left: auto;
@@ -35,7 +34,6 @@ a:hover {color: lightgray;}
 }
 
 #space1{
-    width: 40000px;
     float: left;
     height: 40px;
 }
