@@ -1,7 +1,8 @@
 body {
     background-repeat: no-repeat;
-    background-image: url("./img/holy-light.jpg");
+    background-image: url("../img/holy-light.jpg");
     background-size: 1500px;
+    background-attachment: fixed;
 }
 #layout{
     width: 1000px;
