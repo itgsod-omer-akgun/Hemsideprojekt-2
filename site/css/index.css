@@ -13,6 +13,7 @@ body {
 
 #menu{
     height: 20px;
+    width: 100%;
     float: left;
     margin-right: auto;
     margin-left: auto;
@@ -60,4 +61,8 @@ a:hover {color: lightgray;}
 }
 #nyheter a{
     color: blue;
+}
+#tfheader{
+    float: left;
+    margin-left: 100px;
 }
