@@ -27,9 +27,6 @@ body {
 
     }
 
-    #meny a{
-        color: red;
-    }
     a:link {color: black;}
     a:visited {color: black;}
     a:hover {color: lightgray;}
@@ -55,26 +52,26 @@ body {
     margin-right: auto;
 
 }
-#bild1{
+#pic1 {
     border-radius: 10px;
     border-color: black;
     width: 60%;
     height: 60%;
 }
-#nyheter{
+#news {
 
 }
-    #nyheter a{
+    #news a{
         color: blue;
     }
 
 }
 /*------------index end--------------------*/
 /*------------program start--------------------*/
-#bild2{
+#pic2 {
 
 }
-    #bild2 img{
+    #pic2 img{
        border-radius: 10px;
     }
 #program{
