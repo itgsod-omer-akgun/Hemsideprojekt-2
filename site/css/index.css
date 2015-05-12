@@ -69,16 +69,28 @@ body {
 /*------------index end--------------------*/
 /*------------program start--------------------*/
 #pic2 {
-
+    float: left;
+    margin-left: 190px;
+    margin-top: 30px;
 }
     #pic2 img{
        border-radius: 10px;
     }
 #program{
     float: left;
-    margin-left: 170px;
+    margin-top: 10px;
+    margin-left: 200px;
 }
 /*------------program end--------------------*/
 
 /*------------bilder end--------------------*/
+#picture-content{
+    margin: auto;
+    width: 640px;
+}
+
 /*------------bilder end--------------------*/
+
+/*------------om oss start--------------------*/
+
+/*------------om oss end--------------------*/
