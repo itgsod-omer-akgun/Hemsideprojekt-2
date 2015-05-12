@@ -66,3 +66,14 @@ a:hover {color: lightgray;}
     float: left;
     margin-left: 100px;
 }
+#tfheader{
+    float: left;
+    margin-left: 100px;
+}
+#bild1 img{
+    border-radius: 10px;
+}
+#program{
+    float: left;
+    margin-left: 170px;
+}
