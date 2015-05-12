@@ -4,6 +4,7 @@ body {
     background-size: 1500px;
     background-attachment: fixed;
 }
+/*------------layout start--------------------*/
 #layout{
     width: 1000px;
     height: 100%;
@@ -19,26 +20,30 @@ body {
     margin-left: auto;
     margin-top: 50px;
 }
-#menu a{
-    font-size: 20px;
-    margin-left: 70px;
-    float: left;
+    #menu a{
+        font-size: 20px;
+        margin-left: 70px;
+        float: left;
 
-}
+    }
 
-#meny a{
-    color: red;
-}
-a:link {color: black;}
-a:visited {color: black;}
-a:hover {color: lightgray;}
+    #meny a{
+        color: red;
+    }
+    a:link {color: black;}
+    a:visited {color: black;}
+    a:hover {color: lightgray;}
 
 #hr1{
     float: left;
     margin-left: auto;
     margin-right: auto;
 }
-
+#tfheader{
+    float: left;
+    margin-left: 100px;
+/*------------layout end--------------------*/
+/*------------index start--------------------*/
 #space1{
     float: left;
     height: 40px;
@@ -53,27 +58,27 @@ a:hover {color: lightgray;}
 #bild1{
     border-radius: 10px;
     border-color: black;
-    width: 60 g8%;
+    width: 60%;
     height: 60%;
 }
 #nyheter{
 
 }
-#nyheter a{
-    color: blue;
+    #nyheter a{
+        color: blue;
+    }
+
 }
-#tfheader{
-    float: left;
-    margin-left: 100px;
+/*------------index end--------------------*/
+/*------------program start--------------------*/
+#bild2{
+
 }
-#tfheader{
-    float: left;
-    margin-left: 100px;
-}
-#bild1 img{
-    border-radius: 10px;
-}
+    #bild2 img{
+       border-radius: 10px;
+    }
 #program{
     float: left;
     margin-left: 170px;
 }
+/*------------program end--------------------*/
