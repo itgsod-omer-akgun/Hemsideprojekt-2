@@ -1,7 +1,7 @@
 body {
     background-repeat: no-repeat;
     background-image: url("../img/holy-light.jpg");
-    background-size: 1500px;
+    background-size: 100%;
     background-attachment: fixed;
 }
 /*------------layout start--------------------*/
