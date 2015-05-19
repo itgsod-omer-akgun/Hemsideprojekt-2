@@ -44,7 +44,8 @@ a:hover {color: lightgray;}
 #tfheader{
     float: left;
     margin-left: 100px;
-/*------------layout end--------------------*/
+/*--------------layout end--------------------*/
+
 /*------------index start--------------------*/
 #space1{
     float: left;
@@ -55,7 +56,18 @@ a:hover {color: lightgray;}
     margin-top: 75px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
 
+}
+#logo .slides{
+    display: block;
+    margin: 0;
+    padding: 0;
+
+}
+#logo .slide{
+    float: left;
+    list-style-type: none;
 }
 #pic1 {
     border-radius: 10px;
@@ -96,6 +108,16 @@ a:hover {color: lightgray;}
 /*------------bilder end--------------------*/
 
 /*------------personal start--------------------*/
+#teacher-layout{
+    float: left;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+#teacher-layout li{
+    float: left;
+    margin-left: 20px;
+}
+
 
 /*------------personal end--------------------*/
 /*------------El start--------------------*/
