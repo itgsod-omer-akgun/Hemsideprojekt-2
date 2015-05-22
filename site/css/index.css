@@ -45,7 +45,6 @@ a:hover {color: lightgray;}
     float: left;
     margin-left: 100px;
 /*--------------layout end--------------------*/
-
 /*------------index start--------------------*/
 #space1{
     float: left;
@@ -59,22 +58,11 @@ a:hover {color: lightgray;}
     overflow: hidden;
 
 }
-#logo .slides{
-    display: block;
-    margin: 0;
-    padding: 0;
-
-}
-#logo .slide{
-    float: left;
-    list-style-type: none;
-}
 #pic1 {
     border-radius: 10px;
     border-color: black;
-    width: 60%;
-    height: 60%;
 }
+
 #news {
 
 }
