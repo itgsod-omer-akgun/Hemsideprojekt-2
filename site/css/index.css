@@ -108,6 +108,15 @@ a:hover {color: lightgray;}
 
 
 /*------------personal end--------------------*/
+/*------------kontakt start--------------------*/
+#kontakt-layout{
+    margin-top: 10px;
+    float: left;
+    margin-left: 50px;
+}
+
+/*------------kontakt end--------------------*/
+
 /*------------El start--------------------*/
 #el-layout{
     width: 740px;
